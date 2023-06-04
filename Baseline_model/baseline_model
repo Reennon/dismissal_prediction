@@ -1,0 +1,6 @@
+Baseline_Hackaton_model.ipynb file has exploration and baseline models based on 2 approachs: 
+- short standard feature vector with not complex generated features
+- long feature vector with long feature vector (history for the first 3 months gets to the Employees on the 4th months)
+Feature_vector.pickle - long_feature_vector
+(Link to Feature_vector.pickle is available by link: https://softserveinc-my.sharepoint.com/:f:/p/sdubi/Emp37bvdhBFAodhy9lW5-VMB8I-Ma8La-PHLbXy3lbAxTw?e=XOxLp1)
+(password to folder: 'Hackaton2020!')

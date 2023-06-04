@@ -1,0 +1,4 @@
+1. Months on Position/ Months on Salary was fixed;
+2. Keep Last hiring;
+3. DismissalDate was fixed
+4. Filter Employees History with short history, condition is -- not less than 6 months employee is working. 
